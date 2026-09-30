@@ -1,0 +1,11 @@
+node_modules/
+.pnpm-store/
+dist/
+outputs/
+tools/
+work/
+.openai/
+Start-FollowCursor.bat
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
